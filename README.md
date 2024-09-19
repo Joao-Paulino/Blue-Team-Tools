@@ -1,4 +1,4 @@
-# BlueTeamToos
+# Blue Team Toos
 Blue Team Collection Tools
 
 https://github.com/simeononsecurity/Blue-Team-Tools
