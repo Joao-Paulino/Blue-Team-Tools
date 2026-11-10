@@ -268,6 +268,7 @@ See also [Security Orchestration, Automation, and Response (SOAR)](#security-orc
 - [OSXCollector](https://github.com/YelpArchive/osxcollector) - Forensic evidence collection & analysis toolkit for macOS.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 - [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+- [Guide: Network Forensics with NetworkMiner (own write-up)](guides/network-forensics-networkminer.md) - Bilingual lab guide analyzing FTP/SMB/Web PCAP captures with NetworkMiner and Wireshark.
 
 ## Network perimeter defenses
 
